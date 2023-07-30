@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CHI-Android-Test</string>
+    <string name="users">Users</string>
+    <string name="user_detail">User Detail</string>
+    <string name="years_old">years old</string>
+    <string name="add_new_user">Add new user</string>
 </resources>
